@@ -1,2 +1,2 @@
-# CourseEraTDDFinalProject
-This repository contains unit tests, BDD scenarios, and factory classes for a Django application. It includes factories for generating test data, CRUD operations, search functionality, and behavior-driven development with BDD scenarios and step definitions to ensure robust testing.
+# CourseEra     TDD         Final          Project
+This repository provides unit tests, BDD (Behavior-Driven Development) scenarios, and factory classes for a Django application. It includes features such as factories for creating test data, CRUD operations, search functionality, and behavior-driven development with well-defined BDD scenarios and step definitions to guarantee comprehensive testing.
